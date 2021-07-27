@@ -7,7 +7,7 @@ https://www.linkedin.com/in/suellen-moreira-lima-035638169/
 11983233277 ou 11989478328
 
 ## Ícones
-- :packege: nova funcionalidade
-- :up: nova atualização
-- :betle: correção de bug
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
 - :checkered_frag: release
