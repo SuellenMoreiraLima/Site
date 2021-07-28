@@ -9,5 +9,5 @@ https://www.linkedin.com/in/suellen-moreira-lima-035638169/
 ## Ícones
 - :package: nova funcionalidade
 - :up: atualização
-- :beetle: correção de bug
-- :checkered_frag: release
+- :Check_mark: correção de bug
+- :chequered_frag: release
