@@ -118,8 +118,8 @@ color: #000;
     left: 15%;
 }
 .banner h1{
-    color: rgb(f,f,f);
-    font-size: 4.5rem;
+    color: rgb(0,0,0);
+    font-size: 50rem;
     font-family: var(--font-primary);
     font-weight: 300;
     text-shadow: .2rem .3rem 2px rgba(255, 253, 253, 0.6) ;
